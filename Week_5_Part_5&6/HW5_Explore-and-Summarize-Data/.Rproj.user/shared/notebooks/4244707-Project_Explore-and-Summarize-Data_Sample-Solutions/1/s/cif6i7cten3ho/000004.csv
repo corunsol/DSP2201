@@ -1,0 +1,2 @@
+"0","# Create layout : nrow = 2, ncol = 2"
+"0","pushViewport(viewport(layout = grid.layout(2, 2)))"

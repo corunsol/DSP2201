@@ -1,0 +1,3 @@
+"0","bi_qplot(residual.sugar, alcohol) +"
+"0","  xlab(""Residual sugar (g/dm^3)"") +"
+"0","  ylab(""Alcohol (%)"")"

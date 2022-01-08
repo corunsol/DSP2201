@@ -1,0 +1,8 @@
+"0","grp <- group_by(wine, quality.level)"
+"0","cnts <- summarize(grp, count=n(), "
+"0","                  median=median(citric.acid), "
+"0","                  mean=mean(citric.acid), "
+"0","                  variance=var(citric.acid), "
+"0","                  Q1=quantile(citric.acid, 0.25), "
+"0","                  Q3=quantile(citric.acid, 0.75))"
+"0","print(cnts)"

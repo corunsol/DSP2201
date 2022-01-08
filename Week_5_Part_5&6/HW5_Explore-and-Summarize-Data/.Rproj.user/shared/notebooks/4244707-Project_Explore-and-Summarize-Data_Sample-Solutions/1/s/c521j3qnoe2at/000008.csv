@@ -1,0 +1,8 @@
+"0","den_qplot <- function(x, color, xlab) {"
+"0","  ggplot(data=wine, aes(x, colour=color)) + "
+"0","    geom_density() + "
+"0","    xlab(xlab) + "
+"0","    labs(colour=""Quality level"") +"
+"0","    theme_bw()"
+"0","}"
+"0","den_qplot(fixed.acidity, quality.level, ""Fixed acidity (g/dm^3)"")"

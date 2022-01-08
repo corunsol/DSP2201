@@ -1,0 +1,8 @@
+"0","print(""Volatile acidities by quality level:"")"
+"1","[1]"
+"1"," ""Volatile acidities by quality level:"""
+"1","
+"
+"0","wine %>% "
+"0","  group_by(quality.level) %>% "
+"0","  summarize(mean=mean(volatile.acidity),sd=sd(volatile.acidity))"

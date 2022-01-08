@@ -1,0 +1,6 @@
+"0","# A helper function to define a region on the layout"
+"0","define_region <- function(row, col){"
+"0","  viewport(layout.pos.row = row, layout.pos.col = col)"
+"0","} "
+"0","# Arrange the plots"
+"0","print(vol.alco, vp=define_region(1, 1:2))"

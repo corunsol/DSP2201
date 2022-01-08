@@ -1,0 +1,6 @@
+"0","multi_qplot(fixed.acidity, alcohol, quality.level) + "
+"0","  aes(size=citric.acid) +"
+"0","  xlab(""Fixed acidity (g/dm^3)"") +"
+"0","  ylab(""Alcohol (%)"") + "
+"0","  labs(color=""Quality level"", size=""Citric acid"")"
+"2","`guides(<scale> = FALSE)` is deprecated. Please use `guides(<scale> = ""none"")` instead."

@@ -1,0 +1,4 @@
+"0","ggplot(data=wine, aes(factor(quality), fill=quality.level)) + "
+"0","  geom_bar() + "
+"0","  xlab(""Quality"") + "
+"0","  ylab(""Number of wines"")"

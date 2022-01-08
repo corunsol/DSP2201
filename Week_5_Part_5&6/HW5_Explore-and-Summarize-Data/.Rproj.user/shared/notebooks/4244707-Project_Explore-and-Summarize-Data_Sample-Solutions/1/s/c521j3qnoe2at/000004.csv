@@ -1,0 +1,5 @@
+"0","multi_qplot(residual.sugar, alcohol, quality.level) + "
+"0","  xlab(""Residual sugar (g/dm^3)"") +"
+"0","  ylab(""Alcohol (%)"") +"
+"0","  labs(color=""Quality level"")"
+"2","`guides(<scale> = FALSE)` is deprecated. Please use `guides(<scale> = ""none"")` instead."

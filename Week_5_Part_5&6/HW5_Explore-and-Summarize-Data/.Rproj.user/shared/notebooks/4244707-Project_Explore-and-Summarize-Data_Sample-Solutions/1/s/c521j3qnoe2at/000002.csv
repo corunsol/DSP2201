@@ -1,0 +1,6 @@
+"0","multi_qplot(fixed.acidity, volatile.acidity, quality.level) + "
+"0","  aes(size=pH) +"
+"0","  xlab(""Fixed acidity (g/dm^3)"") +"
+"0","  ylab(""Volatile acidity (g/dm^3)"") +"
+"0","  labs(color=""Quality level"")"
+"2","`guides(<scale> = FALSE)` is deprecated. Please use `guides(<scale> = ""none"")` instead."

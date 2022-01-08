@@ -1,0 +1,3 @@
+"0","volaQuaDensity <- den_qplot(volatile.acidity, quality.level, "
+"0","                            ""Volatile acidity (g/dm^3)"")"
+"0","print(volaQuaDensity)"

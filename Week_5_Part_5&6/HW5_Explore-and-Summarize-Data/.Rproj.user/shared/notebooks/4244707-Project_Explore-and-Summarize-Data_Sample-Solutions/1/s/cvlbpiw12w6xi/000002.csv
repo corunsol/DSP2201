@@ -1,0 +1,2 @@
+"0","# Just in case you have not installed the packages"
+"0","# install.packages(c('ggplot2', 'grid', 'gridExtra', 'GGally', 'dplyr', 'tidyr'))"

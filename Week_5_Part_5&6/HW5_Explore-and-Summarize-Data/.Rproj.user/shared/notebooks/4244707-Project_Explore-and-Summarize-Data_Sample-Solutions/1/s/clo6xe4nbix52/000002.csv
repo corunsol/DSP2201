@@ -1,0 +1,3 @@
+"0","bi_qplot(quality.level, citric.acid, ""boxplot"") +"
+"0","  xlab(""Quality level"") +"
+"0","  ylab(""Citric acid (g/dm^3)"")"

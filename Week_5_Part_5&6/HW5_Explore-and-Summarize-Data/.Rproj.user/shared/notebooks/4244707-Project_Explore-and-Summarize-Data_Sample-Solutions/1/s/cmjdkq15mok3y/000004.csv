@@ -1,0 +1,8 @@
+"0","print(""Percent alcohol contents by quality level:"")"
+"1","[1]"
+"1"," ""Percent alcohol contents by quality level:"""
+"1","
+"
+"0","wine %>% "
+"0","  group_by(quality.level) %>% "
+"0","  summarize(mean=mean(alcohol),sd=sd(alcohol))"

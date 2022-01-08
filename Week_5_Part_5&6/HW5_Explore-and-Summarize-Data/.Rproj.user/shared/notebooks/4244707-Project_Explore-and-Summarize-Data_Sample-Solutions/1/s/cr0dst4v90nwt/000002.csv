@@ -1,0 +1,2 @@
+"0","alcoQuaDensity <- den_qplot(alcohol, quality.level, ""Alcohol (%)"")"
+"0","print(alcoQuaDensity)"
